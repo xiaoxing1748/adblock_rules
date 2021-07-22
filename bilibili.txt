@@ -2,9 +2,13 @@
 ! Chrome AdBlock auxiliarly filters
 ! Last update: Thu Sep 28 02:43:00 EST 2014
 
-!顶部导航栏左侧超链接
-bilibili.com##A[class="link van-popover__reference"]+[href="//app.bilibili.com"]|[href="//manga.bilibili.com*"]|[href="https://live.bilibili.com/activity/live-activity-full/*"]|[href="https://game.bilibili.com/platform/"]|[href="https://bml.bilibili.com/"]|[href="https://game.bilibili.com/platform/"]|[href="https://live.bilibili.com/*"]|[href="https://bml.bilibili.com/bml"]
 
+bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://bml.bilibili.com/"]
+bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://game.bilibili.com/platform/"]
+bilibili.com##A[class="link van-popover__reference"][href="//app.bilibili.com"]
+bilibili.com##A[class="link van-popover__reference"][href="//manga.bilibili.com?from=bill_top_mnav"]
+bilibili.com##A[class="link van-popover__reference"][href="https://live.bilibili.com/activity/live-activity-full/carnival_2021/mobile.html#/stage1"]
+bilibili.com##A[class="link van-popover__reference"][href="https://game.bilibili.com/platform/"]
 bilibili.com##A[class="link"][href="//show.bilibili.com/platform/home.html?msource=pc_web"]
 bilibili.com##A[class="link"][href="//www.bilibili.com/v/game/match/"]
 bilibili.com##A[class="link-item"][href="https://www.bilibili.com/cheese/mine/list"]
@@ -13,6 +17,8 @@ live.bilibili.com##DIV[class="blrp-logo"]
 live.bilibili.com##DIV[class="flip-view p-relative over-hidden w-100"]
 live.bilibili.com##DIV[class="web-player-icon-feedback"]
 space.bilibili.com##DIV[class="notice-item"]
+t.bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://live.bilibili.com/21533653"]
+t.bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://bml.bilibili.com/bml"]
 t.bilibili.com##DIV[class="reply-notice"]
 www.bilibili.com##A[id="right-bottom-banner"][class="ad-report ad-floor report-wrap-module report-scroll-module"]
 www.bilibili.com##DIV[class="bilibili-player-electric-panel"]
