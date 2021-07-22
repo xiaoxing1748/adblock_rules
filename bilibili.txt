@@ -1,3 +1,8 @@
+![Adblock Plus 2.0]
+! Chrome AdBlock auxiliarly filters
+! Last update: Thu Sep 28 02:43:00 EST 2014
+
+
 bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://bml.bilibili.com/"]
 bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://game.bilibili.com/platform/"]
 bilibili.com##A[class="link van-popover__reference"][href="//app.bilibili.com"]
