@@ -3,15 +3,14 @@
 ! Last update: Thu Sep 28 02:43:00 EST 2014
 
 
-bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://bml.bilibili.com/*"]
-bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://game.bilibili.com/platform/"]
+bilibili.com##A[class="link van-popover__reference"][href="https://bml.bilibili.com"]
+bilibili.com##A[class="link van-popover__reference"][href="https://game.bilibili.com"]
 bilibili.com##A[class="link van-popover__reference"][href="//app.bilibili.com"]
 bilibili.com##A[class="link van-popover__reference"][href="//manga.bilibili.com"]
-bilibili.com##A[class="link van-popover__reference"][href="https://live.bilibili.com/*"]
-bilibili.com##A[class="link van-popover__reference"][href="https://game.bilibili.com/*"]
+bilibili.com##A[class="link van-popover__reference"][href="https://live.bilibili.com"]
+bilibili.com##A[class="link van-popover__reference"][href="https://game.bilibili.com"]
 bilibili.com##A[class="link"][href="//show.bilibili.com/platform/*"]
 bilibili.com##A[class="link"][href="//www.bilibili.com/v/game/match/"]
-bilibili.com##A[class="link-item"][href="https://www.bilibili.com/cheese/mine/list"]
 bilibili.com##P[class="bnj-txt txt-up"]
 live.bilibili.com##DIV[class="blrp-logo"]
 live.bilibili.com##DIV[class="flip-view p-relative over-hidden w-100"]
