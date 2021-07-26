@@ -29,6 +29,9 @@ www.bilibili.com##DIV[id="activity_vote"][class="activity-m report-wrap-module r
 www.bilibili.com##DIV[id="live_recommand_report"][class="pop-live report-wrap-module report-scroll-module"]
 www.bilibili.com##DIV[id="reportFirst2"][class="space-between report-wrap-module report-scroll-module"]
 
+!播放窗口右上角反馈
+www.bilibili.com##DIV[class="bilibili-player-video-top-issue player-tooltips-trigger"]
+
 !播放完毕弹出充电排行榜
 www.bilibili.com##DIV[class="bilibili-player-electric-panel"]
 
