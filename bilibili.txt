@@ -35,5 +35,9 @@ www.bilibili.com##DIV[class="bilibili-player-video-top-issue player-tooltips-tri
 !播放完毕弹出充电排行榜
 www.bilibili.com##DIV[class="bilibili-player-electric-panel"]
 
+!评论区广告
+bilibili.com##DIV[class="reply-notice"]
+
 !其他内容
 www.bilibili.com##A[id="right-bottom-banner"][class="ad-report ad-floor report-wrap-module report-scroll-module"]
+
