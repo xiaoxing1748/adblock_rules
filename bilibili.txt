@@ -16,6 +16,7 @@ bilibili.com##P[class="bnj-txt txt-up"]
 
 !直播间窗口右上角浮窗
 live.bilibili.com##DIV[class="blrp-logo"]
+live.bilibili.com##DIV[class="web-player-icon-roomStatus"]
 live.bilibili.com##DIV[class="flip-view p-relative over-hidden w-100"]
 live.bilibili.com##DIV[class="web-player-icon-feedback"]
 
