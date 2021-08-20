@@ -18,7 +18,7 @@ bilibili.com##P[class="bnj-txt txt-up"]
 live.bilibili.com##DIV[class="blrp-logo"]
 live.bilibili.com##DIV[class="web-player-icon-roomStatus"]
 live.bilibili.com##DIV[class="flip-view p-relative over-hidden w-100"]
-live.bilibili.com##DIV[class="web-player-icon-feedback"]
+!live.bilibili.com##DIV[class="web-player-icon-feedback"]
 
 !视频弹窗
 www.bilibili.com##A[id="right-bottom-banner"][class="ad-report ad-floor report-wrap-module report-scroll-module"]
