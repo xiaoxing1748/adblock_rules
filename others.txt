@@ -49,4 +49,4 @@ cn.pornhub.com##DIV[class="abAlertInner"]
 www.pornpics.com##LI[class="thumbwook r-frame r-frame-on"]
 r6s.huijiwiki.com##DIV[id="fndAdContainer"]
 landian.vip##SECTION[class="ad"]
-
+chan.sankakucomplex.com##DIV[id="news-ticker"]
