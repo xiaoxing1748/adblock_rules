@@ -11,6 +11,7 @@ bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://
 bilibili.com##A[class="link van-popover__reference"][href="//app.bilibili.com"]
 bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://www.bilibili.com/blackboard/yueyuanhui.html"]
 bilibili.com##A[class="link van-popover__reference"][href="//manga.bilibili.com?from=bill_top_mnav"]
+bilibili.com##A[class="link van-popover__reference"][href="https://live.bilibili.com/6?spm_id_from=444.41.0.0"]
 bilibili.com##A[class="link"][href="//show.bilibili.com/platform/home.html?msource=pc_web"]
 bilibili.com##A[class="link"][href="//www.bilibili.com/v/game/match/"]
 bilibili.com##P[class="bnj-txt txt-up"]
