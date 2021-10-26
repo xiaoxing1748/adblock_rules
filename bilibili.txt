@@ -33,6 +33,7 @@ www.bilibili.com##DIV[class="bilibili-player-video-popup"]
 www.bilibili.com##DIV[id="activity_vote"][class="activity-m report-wrap-module report-scroll-module act-now"]
 www.bilibili.com##DIV[id="live_recommand_report"][class="pop-live report-wrap-module report-scroll-module"]
 www.bilibili.com##DIV[id="reportFirst2"][class="space-between report-wrap-module report-scroll-module"]
+www.bilibili.com##DIV[class="bilibili-player-skipcard bilibili-player-show"]
 
 !播放窗口右上角反馈
 www.bilibili.com##DIV[class="bilibili-player-video-top-issue player-tooltips-trigger"]
