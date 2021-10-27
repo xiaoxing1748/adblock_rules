@@ -47,4 +47,5 @@ bilibili.com##DIV[class="reply-notice"]
 www.bilibili.com##DIV[class="video-page-game-card"]
 !其他内容
 www.bilibili.com##A[id="right-bottom-banner"][class="ad-report ad-floor report-wrap-module report-scroll-module"]
+www.bilibili.com##DIV[class="video-page-special-card"]
 
