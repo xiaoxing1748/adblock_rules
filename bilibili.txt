@@ -22,8 +22,6 @@ live.bilibili.com##DIV[class="blrp-logo"]
 live.bilibili.com##DIV[class="flip-view p-relative over-hidden w-100"]
 live.bilibili.com##DIV[class="web-player-icon-feedback"]
 
-!视频总弹窗
-www.bilibili.com##DIV[class="bilibili-player-video-popup"]
 !视频弹窗
 www.bilibili.com##A[id="right-bottom-banner"][class="ad-report ad-floor report-wrap-module report-scroll-module"]
 www.bilibili.com##DIV[class="bilibili-player-reserve bilibili-player-show"]
