@@ -2,7 +2,7 @@
 ! Chrome AdBlock auxiliarly filters
 ! Last update: Thu Sep 28 02:43:00 EST 2014
 
-
+!测试
 !顶部导航栏左侧
 bilibili.com##A[class="link van-popover__reference"][href="//bml.bilibili.com"]
 bilibili.com##A[class="link van-popover__reference"][href="//game.bilibili.com/platform/"]
