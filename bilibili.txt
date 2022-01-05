@@ -17,6 +17,15 @@ bilibili.com##A[class="link"][href="//show.bilibili.com/platform/home.html?msour
 bilibili.com##A[class="link"][href="//www.bilibili.com/v/game/match/"]
 bilibili.com##P[class="bnj-txt txt-up"]
 
+!新版顶部导航栏左侧
+bilibili.com##A[class="default-entry"][href="https://game.bilibili.com/platform?spm_id_from=333.788.0.0"]
+bilibili.com##A[class="default-entry"][href="//game.bilibili.com/platform"]
+bilibili.com##A[class="default-entry"][href="//bml.bilibili.com"]
+bilibili.com##A[class="default-entry"][href="https://show.bilibili.com/platform/home.html?msource=pc_web&spm_id_from=333.788.0.0"]
+bilibili.com##A[class="default-entry"][href="https://www.bilibili.com/v/game/match/?spm_id_from=333.788.0.0"]
+bilibili.com##A[class="default-entry"][href="//manga.bilibili.com/?from=bill_top_mnav&spm_id_from=333.788.0.0"]
+bilibili.com##A[class="loc-entry loc-moveclip"][href="https://www.bilibili.com/kuawan/2021zmdy/pc/?spm_id_from=333.788.0.0"]
+
 !直播间窗口右上角浮窗
 live.bilibili.com##DIV[class="blrp-logo"]
 !live.bilibili.com##DIV[class="web-player-icon-roomStatus"]
