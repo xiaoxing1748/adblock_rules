@@ -42,7 +42,8 @@ www.bilibili.com##DIV[class="bilibili-player-video-top-issue player-tooltips-tri
 
 !播放完毕弹出充电排行榜
 www.bilibili.com##DIV[class="bilibili-player-electric-panel"]
-
+!相关视频中的推广视频
+www.bilibili.com##DIV[class="video-ad-creative-card report-wrap-module report-scroll-module"]
 !评论区广告
 bilibili.com##DIV[class="reply-notice"]
 !视频相关游戏推送
