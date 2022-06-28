@@ -55,5 +55,7 @@ www.bilibili.com##DIV[class="video-page-special-card"]
 t.bilibili.com##DIV[class="right-panel"]
 !新版首页推广栏
 www.bilibili.com##SECTION[class="channel-floor bili-grid"]
+www.bilibili.com##DIV[class="eva-extension-area"]
 !新版首页大banner
 www.bilibili.com##DIV[class="recommended-swipe"]
+
