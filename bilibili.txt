@@ -2,22 +2,6 @@
 ! Chrome AdBlock auxiliarly filters
 ! Last update: Thu Sep 28 02:43:00 EST 2014
 
-!测试
-!顶部导航栏左侧
-bilibili.com##A[class="link van-popover__reference"][href="//bml.bilibili.com"]
-bilibili.com##A[class="link van-popover__reference"][href="//game.bilibili.com/platform/"]
-bilibili.com##A[class="link van-popover__reference"][href="https://game.bilibili.com/platform/"]
-bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://game.bilibili.com/platform/"]
-bilibili.com##A[class="link van-popover__reference"][href="//app.bilibili.com"]
-bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://www.bilibili.com/blackboard/yueyuanhui.html"]
-bilibili.com##A[class="link van-popover__reference"][href="//manga.bilibili.com?from=bill_top_mnav"]
-bilibili.com##A[class="link loc-moveclip van-popover__reference"][href="https://live.bilibili.com/6?spm_id_from=444.41.0.0"]
-bilibili.com##A[class="link van-popover__reference"][href="https://live.bilibili.com/activity/live-activity-full/bls_2021/pc.html?is_live_webview=1&spm_id_from=444.41.0.0#/final"]
-bilibili.com##A[class="link"][href="//show.bilibili.com/platform/home.html?msource=pc_web"]
-bilibili.com##A[class="link"][href="//www.bilibili.com/v/game/match/"]
-bilibili.com##P[class="bnj-txt txt-up"]
-
-!新版顶部导航栏左侧
 
 !直播间窗口右上角浮窗
 live.bilibili.com##DIV[class="blrp-logo"]
@@ -39,7 +23,8 @@ www.bilibili.com##DIV[class="bilibili-player-video-inner"]
 
 !播放窗口右上角反馈
 www.bilibili.com##DIV[class="bilibili-player-video-top-issue player-tooltips-trigger"]
-
+!播放窗口浮窗
+www.bilibili.com##DIV[class="bilibili-player-video-top"]
 !播放完毕弹出充电排行榜
 www.bilibili.com##DIV[class="bilibili-player-electric-panel"]
 !相关视频中的推广视频
