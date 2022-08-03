@@ -11,11 +11,8 @@ live.bilibili.com##DIV[class="web-player-icon-feedback"]
 
 !视频弹窗
 www.bilibili.com##A[id="right-bottom-banner"][class="ad-report ad-floor report-wrap-module report-scroll-module"]
-www.bilibili.com##DIV[class="bilibili-player-reserve bilibili-player-show"]
-www.bilibili.com##DIV[class="bilibili-player-score bilibili-player-score-show bilibili-player-score-show-animate"]
-www.bilibili.com##DIV[class="bilibili-player-stardcard bilibili-player-show"]
 www.bilibili.com##DIV[class="bilibili-player-video-popup"]
-www.bilibili.com##DIV[id="activity_vote"][class="activity-m report-wrap-module report-scroll-module act-now"]
+www.bilibili.com##DIV[class="bpx-player-cmd-dm-wrap"]
 www.bilibili.com##DIV[id="live_recommand_report"][class="pop-live report-wrap-module report-scroll-module"]
 www.bilibili.com##DIV[id="reportFirst2"][class="space-between report-wrap-module report-scroll-module"]
 www.bilibili.com##DIV[class="bilibili-player-skipcard bilibili-player-show"]
