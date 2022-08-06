@@ -22,7 +22,7 @@ www.bilibili.com##DIV[class="bilibili-player-video-inner"]
 !播放窗口右上角反馈
 www.bilibili.com##DIV[class="bilibili-player-video-top-issue player-tooltips-trigger"]
 !播放窗口浮窗
-www.bilibili.com##DIV[class="bilibili-player-video-top"]
+www.bilibili.com##DIV[class="bpx-player-top-wrap"]
 !播放完毕弹出充电排行榜
 www.bilibili.com##DIV[class="bilibili-player-electric-panel"]
 !相关视频中的推广视频
