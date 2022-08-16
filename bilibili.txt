@@ -24,7 +24,7 @@ www.bilibili.com##DIV[class="bilibili-player-video-top-issue player-tooltips-tri
 !播放窗口浮窗
 www.bilibili.com##DIV[class="bpx-player-top-wrap"]
 !播放完毕弹出充电排行榜
-www.bilibili.com##DIV[class="bpx-player-electric-wrap"]
+www.bilibili.com##DIV[class="bpx-player-electric-wrap bpx-state-show"]
 !相关视频中的推广视频
 www.bilibili.com##DIV[class="video-ad-creative-card report-wrap-module report-scroll-module"]
 !评论区广告
